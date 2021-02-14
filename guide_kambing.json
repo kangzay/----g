@@ -1,0 +1,41 @@
+{
+  "pc": "com.hamzastudios.deergamesimulator2021",
+  "kang_zayvius": [      
+     {
+      "id": "1",
+      "tittle": "Guide 1",
+      "link_html": "https://raw.githubusercontent.com/kangzay/----g/main/a.html",
+      "images": "https://1.bp.blogspot.com/-B0mx_CJklcQ/YCjlTN9eW1I/AAAAAAAAAgY/q8It1_gtyl8Fu6p_1tf59eJeVt3-vD4DQCLcBGAsYHQ/s320/i.jpg"
+     },
+    {
+      "id": "2",
+      "tittle": "Guide 2",
+      "link_html": "https://raw.githubusercontent.com/kangzay/----g/main/b.html",
+      "images": "https://1.bp.blogspot.com/-B0mx_CJklcQ/YCjlTN9eW1I/AAAAAAAAAgY/q8It1_gtyl8Fu6p_1tf59eJeVt3-vD4DQCLcBGAsYHQ/s320/i.jpg"
+     },
+    {
+      "id": "3",
+      "tittle": "Guide 3",
+      "link_html": "https://raw.githubusercontent.com/kangzay/----g/main/c.html",
+      "images": "https://1.bp.blogspot.com/-B0mx_CJklcQ/YCjlTN9eW1I/AAAAAAAAAgY/q8It1_gtyl8Fu6p_1tf59eJeVt3-vD4DQCLcBGAsYHQ/s320/i.jpg"
+     },
+    {
+      "id": "4",
+      "tittle": "Guide 4",
+      "link_html": "https://raw.githubusercontent.com/kangzay/----g/main/d.html",
+      "images": "https://1.bp.blogspot.com/-B0mx_CJklcQ/YCjlTN9eW1I/AAAAAAAAAgY/q8It1_gtyl8Fu6p_1tf59eJeVt3-vD4DQCLcBGAsYHQ/s320/i.jpg"
+     },
+    {
+      "id": "5",
+      "tittle": "Guide 5",
+      "link_html": "https://raw.githubusercontent.com/kangzay/----g/main/e.html",
+      "images": "https://1.bp.blogspot.com/-B0mx_CJklcQ/YCjlTN9eW1I/AAAAAAAAAgY/q8It1_gtyl8Fu6p_1tf59eJeVt3-vD4DQCLcBGAsYHQ/s320/i.jpg"
+     },
+    {
+      "id": "6",
+      "tittle": "Guide 6",
+      "link_html": "https://raw.githubusercontent.com/kangzay/----g/main/f.html",
+      "images": "https://1.bp.blogspot.com/-B0mx_CJklcQ/YCjlTN9eW1I/AAAAAAAAAgY/q8It1_gtyl8Fu6p_1tf59eJeVt3-vD4DQCLcBGAsYHQ/s320/i.jpg"
+     }
+  ]
+}
